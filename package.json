@@ -1,5 +1,5 @@
 {
-  "name": "platzom",
+  "name": "platzoniam",
   "version": "0.1.0",
   "description": "Traductor de idioma platzom",
   "main": "dist/src/platzom.js",
@@ -30,5 +30,8 @@
     "url": "https://github.com/davidstivcontre1/platzom/issues"
   },
   "homepage": "https://github.com/davidstivcontre1/platzom#readme",
-  "dependencies": {}
+  "dependencies": {},
+  "directories": {
+    "test": "test"
+  }
 }

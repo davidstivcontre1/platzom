@@ -34,3 +34,4 @@ platzom("sometemos") // SoMeTeMoS
 ## Licencia
 
 [MIT](https://opensource.org/licenses/MIT)
+"# platzom"  
